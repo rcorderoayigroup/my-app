@@ -5,3 +5,4 @@ patchesStrategicMerge:
   - patch.yaml
 
 namespace: prod
+namePrefix: prod-
